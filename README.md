@@ -1,5 +1,5 @@
 # SP4567
-My GitHub Profile
+Yo das ist Mein Profil
 
 <h1 align="center">Hi 👋, I'm Suyash Pandey</h1>
 <h3 align="center">AiML Enthusiast....tech_freak</h3>
