@@ -1,4 +1,4 @@
-# -SP4567-
+# SP4567
 My GitHub Profile
 
 <p align="center">
