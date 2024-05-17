@@ -35,4 +35,8 @@ Yo das ist Mein Profil
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sp4567&" alt="sp4567" /></p>
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 
