@@ -1,7 +1,7 @@
 # SP4567
 Yo das ist mein Profil!
 
-<h1 align="center">Hi 👋, I'm Suyash Pandey</h1>
+<h1 align="center">Hi 👋,This is Suyash Pandey</h1>
 <h3 align="center">AiML Enthusiast....tech_freak</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sp4567&label=Profile%20views&color=0e75b6&style=flat" alt="sp4567" /> </p>
