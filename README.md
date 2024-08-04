@@ -5,7 +5,7 @@ Yo das ist mein Profil!
 
 <h3 align="center">AiML Enthusiast....tech_freak</h3>
 
-<h3>I'm a student of B.Tech in computer science and engineering at Amity University Lucknow. Currently I'm learning 4 programming languages which are Python, JAVA, CPP, C and 1 query language that is SQL which has helped me a lot in data analysis. I'm a Ai and Machine learning enthusiast and i like to learn about new technology especially in the field of AiML. I've also participated in various certificate programs such related to Ai, ML and Data Science and have recieved the completion certificate also.I'm fond of learning about new technologies and car designing is my hobby.</h3>
+<h3>As a passionate enthusiast of Machine Learning and Artificial Intelligence (AI), I am dedicated to leveraging cutting-edge technologies to solve complex problems and drive innovation. With a strong foundation in ML and AI principles, coupled with hands-on experience in developing and deploying algorithms, I am committed to contributing to advancements in this dynamic field</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sp4567&label=Profile%20views&color=0e75b6&style=flat" alt="sp4567" /> </p>
 
