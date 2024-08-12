@@ -5,7 +5,7 @@ Yo das ist mein Profil!
 
 <h3 align="center">AiML Enthusiast....tech_freak</h3>
 
-<h3>As a passionate enthusiast of Machine Learning and Artificial Intelligence (AI), I am dedicated to leveraging cutting-edge technologies to solve complex problems and drive innovation. 
+<h3 style="font-style=Times New Roman">As a passionate enthusiast of Machine Learning and Artificial Intelligence (AI), I am dedicated to leveraging cutting-edge technologies to solve complex problems and drive innovation. 
 With a strong foundation in ML and AI principles, coupled with hands-on experience in developing and deploying algorithms, I am committed to contributing to advancements in this dynamic field.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sp4567&label=Profile%20views&color=0e75b6&style=flat" alt="sp4567" /> </p>
