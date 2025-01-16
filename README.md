@@ -2,11 +2,15 @@
 
 <h1 align="center">Hi 👋, I'm Suyash Pandey</h1>
 
-<h3 align="center">AI & ML Enthusiast | Tech Explorer | Innovator</h3>
+<h3 align="center">Software Engineer | AI & ML Enthusiast | Tech Explorer | Innovator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Artificial+Intelligence+Explorer;Innovating+with+Code;Always+Learning+%26+Growing" alt="Typing SVG" />
 </p>
+
+---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sp4567" alt="sp4567" /></a> </p>
 
 ---
 
