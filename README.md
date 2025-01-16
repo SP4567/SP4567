@@ -10,10 +10,6 @@
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sp4567" alt="sp4567" /></a> </p>
-
----
-
 <h3 align="left">About Me 🧑‍💻</h3>
 <p align="left" style="font-family: 'Times New Roman';">
 I am a passionate enthusiast of <strong>Machine Learning</strong> and <strong>Artificial Intelligence (AI)</strong>, dedicated to leveraging cutting-edge technologies to solve complex problems and drive innovation.  
@@ -74,3 +70,9 @@ Currently, I am exploring advanced AI frameworks and working on exciting project
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sp4567" alt="GitHub Streak" />
 </p>
+
+---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sp4567" alt="sp4567" /></a> </p>
+
+---
