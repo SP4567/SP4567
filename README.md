@@ -1,5 +1,11 @@
 # SP4567
 
+---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sp4567" alt="sp4567" /></a> </p>
+
+---
+
 <h1 align="center">Hi 👋, I'm Suyash Pandey</h1>
 
 <h3 align="center">Software Engineer | AI & ML Enthusiast | Tech Explorer | Innovator</h3>
@@ -70,9 +76,3 @@ Currently, I am exploring advanced AI frameworks and working on exciting project
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sp4567" alt="GitHub Streak" />
 </p>
-
----
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sp4567" alt="sp4567" /></a> </p>
-
----
