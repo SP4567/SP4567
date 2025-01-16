@@ -19,6 +19,7 @@ Currently, I am exploring advanced AI frameworks and working on exciting project
 
 ---
 
+<h3 align="left">Trophies</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sp4567" alt="sp4567" /></a> </p>
 
 ---
