@@ -1,11 +1,5 @@
 # SP4567
 
----
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sp4567" alt="sp4567" /></a> </p>
-
----
-
 <h1 align="center">Hi 👋, I'm Suyash Pandey</h1>
 
 <h3 align="center">Software Engineer | AI & ML Enthusiast | Tech Explorer | Innovator</h3>
@@ -22,6 +16,10 @@ I am a passionate enthusiast of <strong>Machine Learning</strong> and <strong>Ar
 With a solid foundation in ML and AI principles, coupled with hands-on experience in developing and deploying algorithms, I strive to make impactful contributions to this dynamic field.  
 Currently, I am exploring advanced AI frameworks and working on exciting projects involving deep learning, natural language processing, and computer vision.  
 </p>
+
+---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sp4567" alt="sp4567" /></a> </p>
 
 ---
 
