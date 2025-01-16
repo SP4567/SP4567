@@ -65,15 +65,16 @@ Currently, I am exploring advanced AI frameworks and working on exciting project
 
 <h3 align="left">📊 GitHub Stats:</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sp4567&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center">
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sp4567&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sp4567" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sp4567&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
 
