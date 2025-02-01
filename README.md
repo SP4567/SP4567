@@ -57,6 +57,7 @@ Currently, I am exploring advanced AI frameworks and working on exciting project
   <a href="https://instagram.com/suyashpandey668" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://medium.com/suyashpandey" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/sumo0622" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://www.geeksforgeeks.org/user/suyashpa75qf/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gfg.svg" alt="GeeksForGeeks" height="30" width="40"/></a>
 </p>
 
 ---
