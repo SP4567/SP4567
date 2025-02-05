@@ -91,6 +91,8 @@ Currently, I am exploring advanced AI frameworks and working on exciting project
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sp4567" alt="GitHub Streak" />
 </p>
 
-<p align="left" font-style="italics">💬Knowledge is the real money!</p> 
+---
+
+<h1 align="left" font-style="italics">💬Knowledge is the real money!</h1> 
 
 
