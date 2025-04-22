@@ -115,7 +115,7 @@ const Suyash = {
 
 ## 📫 Reach Out
 
-- 📧 Email: suyashpandey@email.com  
+- 📧 Email: suyashpandey9611@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/suyash-pandey)  
 - 💻 [GitHub](https://github.com/SP4567)
 - 💼 [Portfolio](https://geraltsportfolio.netlify.app/)
