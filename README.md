@@ -117,7 +117,8 @@ const Suyash = {
 
 - 📧 Email: suyashpandey@email.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/suyash-pandey)  
-- 💻 [GitHub](https://github.com/SP4567)  
+- 💻 [GitHub](https://github.com/SP4567)
+- 💼 [Portfolio](https://geraltsportfolio.netlify.app/)
 - ✍️ Blogs: Coming soon on personal site 🚧  
 - 🧠 Projects, thoughts & madness — all in one place soon
 
