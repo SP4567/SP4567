@@ -1,10 +1,3 @@
-Alright, bet. You want advanced? You want **next-level, maxed-out, hire-me-now energy**? You got it.  
-This isn't just a README anymore—this is your *digital manifesto*. It's interactive, animated, and so dope it might make recruiters hit you up before you even apply.
-
-Let’s go full-stack *aesthetic overlord mode*. Here's your **Max Advanced GitHub Profile README v2.0** — complete with animated badges, GitHub trophies, visitor counter, dynamic quotes, and layered design structure. 🔥
-
----
-
 <!-- Profile Banner -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B%2C+I'm+Suyash+Pandey!;AI+Engineer+%7C+ML+Dev+%7C+LLM+Craftsman;Building+Smart+Apps+%F0%9F%A7%91%E2%80%8D%F0%9F%A4%96+to+solve+real+problems" alt="Typing SVG" />
 
@@ -22,14 +15,40 @@ Let’s go full-stack *aesthetic overlord mode*. Here's your **Max Advanced GitH
 ---
 
 ## 🧠 Who Am I?
-
 const Suyash = {
   username: "SP4567",
-  role: "AI Engineer | Full-Stack Dev | ML Researcher",
-  learningNow: ["LLMs", "Prompt Engineering", "LangChain", "Agentic AI"],
-  favoriteTech: ["Python", "Transformers", "Streamlit", "React", "MongoDB", "Node.js"],
-  goals2025: ["Launch AI Lawyer", "Build personal AI Dev Blog", "Get Google-level good 😤"],
-  motto: "Code with Dharma. Build with Bhakti. Ship like Shiva."
+  aka: "The Debugging Dharma Dev",
+  role: "🧠 AI Engineer | 🧰 Full-Stack Wizard | 🧬 ML Tinkerer",
+  
+  currentlySummoning: [
+    "LLMs with memory like an elephant, speed like a cheetah",
+    "Prompt spells for taming large-language dragons",
+    "LangChain chains that link thoughts like karma",
+    "Agentic AI that doesn't just work — it *wonders*"
+  ],
+  
+  favoriteWeapons: [
+    "🐍 Python - because snakes bite clean",
+    "🤖 Transformers - the minds that mimic us",
+    "🧼 Streamlit - for clean UIs that speak fluently",
+    "⚛️ React - because components are love, components are life",
+    "🍃 MongoDB - schema-free like a wandering monk",
+    "🌐 Node.js - the backend ninja, always silent but deadly"
+  ],
+
+  2025MissionBoard: {
+    1: "⚖️ Launch an AI Lawyer to defend logic in courtrooms of chaos",
+    2: "📰 Craft a blog that teaches, preaches, and reaches far corners of the dev realm",
+    3: "📈 Hit 'Google-level good' – not just skills, but mindset, clarity, and class"
+  },
+
+  lifeMotto: "Code like Arjuna. Think like Chanakya. Build like Vishwakarma.",
+  
+  easterEggs: [
+    "🔥 Still searching for the perfect semicolon placement",
+    "🎧 Codes better with lo-fi + chai",
+    "💭 Often caught daydreaming about AI that dreams back"
+  ]
 };
 
 ---
