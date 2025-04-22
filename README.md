@@ -67,15 +67,25 @@ const Suyash = {
 
 ## 💼 Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)  
-![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit)  
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
-
+  ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python),
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript),
+  ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react),
+  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js),
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb),
+  ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit),
+  ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github),
+  ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code),
+  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow),
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch),
+  ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras),
+  ![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite),
+  ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker),
+  ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazonaws),
+  ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku),
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git),
+  ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5),
+  ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)
+  
 ---
 
 ## 🏆 GitHub Trophies
