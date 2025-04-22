@@ -1,183 +1,116 @@
-# SP4567
+Alright, bet. You want advanced? You want **next-level, maxed-out, hire-me-now energy**? You got it.  
+This isn't just a README anymore—this is your *digital manifesto*. It's interactive, animated, and so dope it might make recruiters hit you up before you even apply.
 
-<h1 align="center">Hi 👋, I'm Suyash Pandey</h1>
+Let’s go full-stack *aesthetic overlord mode*. Here's your **Max Advanced GitHub Profile README v2.0** — complete with animated badges, GitHub trophies, visitor counter, dynamic quotes, and layered design structure. 🔥
 
-<h3 align="center">Software Engineer | AI & ML Enthusiast | Tech Explorer | Innovator</h3>
+---
+
+<!-- Profile Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B%2C+I'm+Suyash+Pandey!;AI+Engineer+%7C+ML+Dev+%7C+LLM+Craftsman;Building+Smart+Apps+%F0%9F%A7%91%E2%80%8D%F0%9F%A4%96+to+solve+real+problems" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Artificial+Intelligence+Explorer;Innovating+with+Code;Always+Learning+%26+Growing" alt="Typing SVG" />
+  <a href="https://github.com/SP4567">
+    <img src="https://komarev.com/ghpvc/?username=SP4567&style=flat-square&color=0abde3&label=Profile+Views" alt="views" />
+  </a>
+  <a href="https://github.com/SP4567?tab=followers">
+    <img src="https://img.shields.io/github/followers/SP4567?label=Followers&style=flat-square&color=1dd1a1" />
+  </a>
+  <img src="https://img.shields.io/badge/AI%20Dev-%E2%9C%94-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-%E2%9C%94-orange?style=flat-square" />
 </p>
 
 ---
 
-<h3 align="left">About Me 🧑‍💻</h3>
-<p align="justified" style="font-family: 'Times New Roman';">
-I am a passionate enthusiast of <strong>Machine Learning</strong> and <strong>Artificial Intelligence (AI)</strong>, dedicated to leveraging cutting-edge technologies to solve complex problems and drive innovation.  
-With a solid foundation in ML and AI principles, coupled with hands-on experience in developing and deploying algorithms, I strive to make impactful contributions to this dynamic field.  
-Currently, I am exploring advanced AI frameworks and working on exciting projects involving deep learning, natural language processing, and computer vision.  
+## 🧠 Who Am I?
+
+const Suyash = {
+  username: "SP4567",
+  role: "AI Engineer | Full-Stack Dev | ML Researcher",
+  learningNow: ["LLMs", "Prompt Engineering", "LangChain", "Agentic AI"],
+  favoriteTech: ["Python", "Transformers", "Streamlit", "React", "MongoDB", "Node.js"],
+  goals2025: ["Launch AI Lawyer", "Build personal AI Dev Blog", "Get Google-level good 😤"],
+  motto: "Code with Dharma. Build with Bhakti. Ship like Shiva."
+};
+
+---
+
+## 🔭 Current Projects
+
+| 🚀 Project | 🔎 Description |
+|-----------|----------------|
+| ⚖️ **AI Lawyer** | Turn legal cases into verdicts using NLP + LLMs. |
+| 🏡 **SmartHome Gemini** | Voice-controlled home automation with Gemini AI. |
+| 🔐 **Sentence Decryptor** | Decodes encrypted messages using Transformers. |
+| 🎙️ **Speech Translator** | Converts live speech to multilingual text. |
+| 🌐 **Portfolio Website** | My personal tech fortress with blog & showcase. |
+
+---
+
+## 💼 Tech Stack & Tools
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)  
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)  
+![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat&logo=streamlit)  
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SP4567&theme=algolia&no-frame=true&title=Followers,Stars,Commit,Repositories,PullRequest" />
 </p>
 
 ---
 
-<h3 align="left">Trophies</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sp4567" alt="sp4567" /></a> </p>
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SP4567&show_icons=true&theme=radical&count_private=true" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SP4567&theme=radical" height="200" />
+</div>
 
 ---
 
-<h3 align="left">🌱 What I'm Learning:</h3>
+## 🔥 Languages
 
-- **TensorFlow**  
-- **Keras**  
-- **Hugging Face**  
-- **OpenCV**  
-
----
-
-<h3 align="left">💬 Ask Me About:</h3>
-
-- **Artificial Intelligence & Machine Learning**  
-- **Data Science & Analytics**  
-- **Programming (C, C++, Java, Python, HTML, CSS)**  
-- **SQL & Database Management**  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SP4567&layout=compact&theme=tokyonight" />
+</div>
 
 ---
 
-<h3 align="left">📫 Reach Me At:</h3>
+## 📫 Reach Out
 
-- **📧 Email**: suyashpandey9611@gmail.com  
-- **🌐 Portfolio**: [geraltsportfolio.netlify.app](https://geraltsportfolio.netlify.app/)  
+- 📧 Email: suyashpandey@email.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/suyash-pandey)  
+- 💻 [GitHub](https://github.com/SP4567)  
+- ✍️ Blogs: Coming soon on personal site 🚧  
+- 🧠 Projects, thoughts & madness — all in one place soon
 
 ---
 
-<h3 align="left">📱 Connect With Me:</h3>
-<p align="left">
-  <a href="https://twitter.com/suyash pandey" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/suyash pandey" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://kaggle.com/suyash pandey" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-</a>
-<a href="https://instagram.com/suyashpandey668" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-<a href="https://medium.com/suyashpandey" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
-</a>
-<a href="https://www.leetcode.com/sumo0622" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-</a>
-<a href="https://www.geeksforgeeks.org/user/suyashpa75qf/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-</a>
+## 🧘‍♂️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
-<h3 align="left">🛠️ Tools & Technologies:</h3>
-<p align="left">
-  <!-- Programming Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  
-  <!-- Web Development -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-    <img src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" alt="streamlit" width="100" height="40"/>
-  </a>
+## ⚔️ Fun Fact
 
-  <!-- Machine Learning, Deep Learning & Data -->
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  </a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-
-  <!-- Generative AI, Transformers, LLMs -->
-  <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/huggingface/brand/main/hf-logo.png" alt="huggingface" width="40" height="40"/>
-  </a>
-  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Google_Gemini_logo.svg/1024px-Google_Gemini_logo.svg.png" alt="gemini" width="40" height="40"/>
-  </a>
-
-  <!-- Database & Tools -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-
-  <!-- Tools & IDEs -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/>
-  </a>
-
-  <!-- Others -->
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-</p>
-
+> I’m building apps that reason, speak, decide, and learn.  
+> I call them “tools of the future.” The future calls them “Suyash’s legacy.”  
+> My AI doesn't just respond — it **understands**.
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sp4567&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sp4567&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sp4567" alt="GitHub Streak" />
-</p>
-
----
-
-<h1 align="left" font-style="italics">💬Knowledge is the real money!</h1> 
+```
