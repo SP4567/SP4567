@@ -41,15 +41,15 @@ I question trends, respect fundamentals, and build like the craft matters.
 > Not chasing hype. Building things that **survive reality**.
 ---
 
-## 🔭 Current Projects
+## 🚀 Active Projects
 
-| 🚀 Project | 🔎 Description |
-|-----------|----------------|
-| ⚖️ **AI Lawyer** | Turn legal cases into verdicts using NLP + LLMs. |
-| 🏡 **SmartHome Gemini** | Voice-controlled home automation with Gemini AI. |
-| 🔐 **Sentence Decryptor** | Decodes encrypted messages using Transformers. |
-| 🎙️ **Speech Translator** | Converts live speech to multilingual text. |
-| 🌐 **Portfolio Website** | My personal tech fortress with blog & showcase. |
+| Project | Stack | Description |
+|--------|------|-------------|
+| ⚖️ **AI Lawyer 2.0** | LLM + RAG + Reasoning Graphs | Evidence-aware legal reasoning engine w/ verdict synthesis |
+| 🏡 **SmartHome Gemini** | Voice + Context Agents | Context-persistent home automation with adaptive intent memory |
+| 🔐 **Sentence Decryptor** | Transformers + Pattern Analysis | Semantic + cipher inference for encrypted sequences |
+| 🎙️ **Speech-Translate RT** | Whisper + Streaming Pipelines | Real-time multilingual speech understanding |
+| 🌐 **Dev Knowledge Hub** | React + Node + Markdown Engine | Portfolio + personal research journal + engineering logs |
 
 ---
 
