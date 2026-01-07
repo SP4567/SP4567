@@ -1,82 +1,83 @@
 <!-- Profile Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=900&center=true&vCenter=true&width=1000&lines=Suyash+Pandey+%7C+AI+Engineer;Building+Agentic+Systems+%26+Reasoning+Machines;Engineering+Intelligence+that+Works+in+the+Real+World+⚡"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=900&center=true&vCenter=true&width=1000&lines=Suyash+Pandey+—+AI+Engineer;Systems+Architecture+%7C+LLM+Engineering+%7C+Agentic+AI;Designing+Intelligence+That+Scales+In+The+Real+World+⚡"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SP4567&style=flat-square&color=0abde3&label=Profile+Views" />
+  <img src="https://img.shields.io/badge/Discipline-Systems%20Engineering-1abc9c?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Agentic%20AI-8e44ad?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM%20Engineering-Production%20Grade-27ae60?style=flat-square" />
-  <img src="https://img.shields.io/badge/Systems%20Mindset-End%20to%20End-3498db?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mindset-Production%20First-2ecc71?style=flat-square" />
 </p>
 
 ---
 
-## 🧠 About Me — 2026 Edition
+## 🧠 AI Engineer — What I Do
 
-I’m an **AI Engineer & Systems Developer** working at the intersection of:
+I design and build **AI systems that reason, plan, and operate reliably** — not just demos that look smart.
 
-- 🤖 **Agentic AI** — multi-step reasoning, planning, tool-use, autonomy  
-- 🧠 **LLM Systems Architecture** — memory, control flows, evals, alignment  
-- ⚙️ **Product-grade engineering** — reliability, observability, scale  
-- 🧩 **Human-AI collaboration tools** — augmentation over automation  
+My work sits across:
 
-I don’t chase buzzwords — I build **software that thinks, adapts, and survives real-world constraints**.
+- 🧠 **LLM Systems Engineering** — control flows, evals, safety, grounding  
+- 🤖 **Agentic AI Architectures** — tool-use, task-planning, feedback loops  
+- 📚 **Retrieval & Memory Systems** — semantic memory, episodic context, RAG  
+- ⚙️ **Production Engineering** — performance, observability, fault-tolerance  
+
+I respect fundamentals. I optimize for **clarity, predictability, and durability**.
 
 ---
 
-## 🔭 Current Direction — Deep Engineering Focus
+## 🔭 Current Focus — 2026 Engineering Tracks
 
-- 🧠 **Structured Reasoning Pipelines** (graphs, task planning, reflection loops)
-- 📚 **Retrieval + Long-term Memory Systems** (vector DBs, episodic/contextual memory)
-- 🏭 **LLM Ops & Evaluation Frameworks** (hallucination control, test harnesses)
-- 🤝 **Tool-use + Multi-Agent Coordination**
-- ⚡ **Prototype → Benchmark → Harden → Ship**
+- Reasoning graphs & structured cognitive pipelines  
+- Multi-agent coordination & tool orchestration  
+- Long-term + contextual memory architectures  
+- LLM evals, reliability scoring, failure-mode analysis  
+- Prototype → benchmark → stabilize → ship
 
-> Vision: AI systems that aren’t just *smart* — they are **dependable**.
+> Goal: **AI that is dependable — not theatrical.**
 
 ---
 
 ## 🚀 Active Projects
 
-| Project | Stack | Description |
-|--------|------|-------------|
-| ⚖️ **AI Lawyer 2.0** | LLM + RAG + Reasoning Graphs | Evidence-aware legal reasoning engine w/ verdict synthesis |
-| 🏡 **SmartHome Gemini** | Voice + Context Agents | Context-persistent home automation with adaptive intent memory |
-| 🔐 **Sentence Decryptor** | Transformers + Pattern Analysis | Semantic + cipher inference for encrypted sequences |
-| 🎙️ **Speech-Translate RT** | Whisper + Streaming Pipelines | Real-time multilingual speech understanding |
-| 🌐 **Dev Knowledge Hub** | React + Node + Markdown Engine | Portfolio + personal research journal + engineering logs |
+| Project | Engineering Track | Description |
+|--------|------------------|-------------|
+| ⚖️ **AI Lawyer — Reasoning Engine** | RAG + Evidence Graphs + Evals | Structured legal reasoning with verdict synthesis & traceability |
+| 🏡 **SmartHome Gemini — Context AI** | Voice Agents + Memory | Adaptive intent modeling + stateful home interaction |
+| 🔐 **Sentence Decryptor** | Transformers + Pattern Reasoning | Semantic-cipher inference & structure recognition |
+| 🎙️ **Speech-Translate RT** | Streaming + Multilingual Models | Low-latency speech understanding & translation |
+| 🌐 **Dev Knowledge Hub** | Engineering Journal | Architecture notes, experiments, learning logs |
 
 ---
 
-## 🧩 Core Stack & Capabilities
+## 🧩 Core Stack
 
 **AI / ML**
-- PyTorch • TensorFlow • Transformers • LoRA / Fine-tuning  
-- RAG • Vector DBs • Embedding Systems • Prompt Graphs  
-- Model evals • Safety checks • Latency & cost optimization
+- PyTorch • TensorFlow • Transformers  
+- RAG • Vector DBs • Embeddings • LoRA / fine-tuning  
+- Evaluation frameworks • safety guards • latency optimization
 
 **Backend / Systems**
-- Node.js • FastAPI • WebSockets • Micro-services  
-- MongoDB • SQL • Caching layers • Message queues
+- FastAPI • Node.js • WebSockets • micro-services  
+- MongoDB • SQL • caching • message queues
 
 **Infra / DevOps**
 - Docker • AWS • GitHub Actions • CI/CD  
-- Observability • Logging pipelines • Scalability patterns
+- logging • tracing • observability pipelines
 
 **Product Layer**
-- React • Streamlit • UX for intelligent systems  
-- Rapid prototyping → production-grade upgrades
+- React • Streamlit • Human-AI interaction UX
 
 ---
 
-## 🧭 Engineering Philosophy
+## 🧭 Engineering Principles
 
-> Ship like an engineer.  
-> Think like an architect.  
-> Question like a skeptic.  
-> Improve like a craftsman.
+> Architect before you automate.  
+> Measure before you optimize.  
+> Ship when it’s stable — not when it *just works*.
 
-Good systems aren’t flashy —  
-they’re **predictable, explainable, maintainable, and timeless**.
+**Reliability > novelty  
+Understanding > excitement  
+Craft > shortcuts**
 
 ---
 
@@ -89,7 +90,7 @@ they’re **predictable, explainable, maintainable, and timeless**.
 
 ---
 
-## 🌍 Language Distribution
+## 🌍 Language Footprint
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SP4567&layout=compact&theme=tokyonight" />
@@ -97,26 +98,19 @@ they’re **predictable, explainable, maintainable, and timeless**.
 
 ---
 
-## 📫 Connect & Collaborate
+## 📫 Connect
 
 - 📧 suyashpandey9611@gmail.com  
 - 💼 LinkedIn — https://www.linkedin.com/in/suyash-pandey  
 - 💻 GitHub — https://github.com/SP4567  
-- 📝 Research & Build Logs — coming soon
+- 📝 Engineering log — coming soon
 
 ---
 
-## 🧘‍♂️ Principle I Work By
+## ⚡ Closing Thought
 
-> *AI that thinks is impressive.*  
-> **AI that you can trust is valuable.**
-
----
-
-## ⚡ Fun Note
-
-Building systems that don’t just **respond** —  
-they **reason, adapt, and respect real-world constraints**.
+> I don’t build AI that *acts smart*.  
+> I build AI that **thinks, explains, and holds up under pressure**.
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
