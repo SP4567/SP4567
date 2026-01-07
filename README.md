@@ -15,39 +15,30 @@
 ---
 
 ## 🧠 Who Am I?
-const Suyash = {
-  username: "SP4567",
-  aka: "The Builder Who Breaks Limits",
-  role: "⚙️ AI Engineer | 🧩 Systems Thinker | 🚀 Product-First ML Dev",
 
-  whatIDo: [
-    "Design AI agents that reason, adapt, and actually get work done",
-    "Build end-to-end apps — from backend logic to sleek UIs",
-    "Experiment with LLMs, retrieval, memory, tools, and autonomy",
-    "Engineer systems that feel futuristic… but work like old-school craftsmanship"
-  ],
+> A builder from the old school — discipline, structure, craftsmanship —  
+> writing code for a future where **software thinks, reasons, and acts**.
 
-  coreStack: [
-    "🐍 Python & ML — where ideas become intelligence",
-    "🧠 Transformers & LLM Tooling — shaping digital minds",
-    "🧼 Streamlit & React — fast prototypes, real products",
-    "🌐 Node + DBs — reliable backends, no drama engineering"
-  ],
+I’m an **AI Engineer & ML Developer** focused on:
 
-  2026 MissionBoard: {
-    1: "⚖️ Ship a production-grade AI Lawyer that reasons responsibly",
-    2: "📚 Build a personal tech blog that teaches with clarity & humility",
-    3: "🏗️ Level up as an engineer — discipline, depth, and timeless fundamentals"
-  },
+- 🧩 **Agentic AI Systems** — planning, reasoning, tool-use, autonomy  
+- 🧠 **LLM Apps with memory, control, and reliability**
+- ⚙️ **End-to-end engineering** — backend → ML → UX
+- 🏗️ **Real products > toy demos** — shipped, tested, improved
 
-  philosophy: "Move fast — but think deeper. Respect the craft. Build things that last.",
+I question trends, respect fundamentals, and build like the craft matters.
 
-  easterEggs: [
-    "☕ Code powered by chai + late-night playlists",
-    "⚡ Loves refactoring like it’s meditation",
-    "💭 Dreams of AI that doesn’t just reply — it reflects"
-  ]
-};
+---
+
+## 🔥 2026 Focus Areas
+
+- 🤖 AI Agents that collaborate, plan, and execute tasks
+- 🧠 Retrieval-Augmented & Memory-centric LLM systems
+- 🏭 Production-grade pipelines (observability, evals, safety)
+- 🌐 Human-in-loop automation tools
+- ⚡ Fast prototyping → robust engineering
+
+> Not chasing hype. Building things that **survive reality**.
 ---
 
 ## 🔭 Current Projects
