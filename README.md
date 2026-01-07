@@ -1,85 +1,86 @@
 <!-- Profile Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&center=true&vCenter=true&width=1000&lines=Hey+%F0%9F%91%8B%2C+I'm+Suyash+Pandey!;AI+Engineer+%7C+Systems+Builder+%7C+Agentic+AI+Developer;Engineering+Real-World+Intelligence+%E2%9A%A1" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&pause=900&center=true&vCenter=true&width=1000&lines=Suyash+Pandey+%7C+AI+Engineer;Building+Agentic+Systems+%26+Reasoning+Machines;Engineering+Intelligence+that+Works+in+the+Real+World+⚡"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SP4567&style=flat-square&color=0abde3&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/SP4567?label=Followers&style=flat-square&color=1dd1a1" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-Building-8e44ad?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLMs-Production%20Ready-2ecc71?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Agentic%20AI-8e44ad?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM%20Engineering-Production%20Grade-27ae60?style=flat-square" />
+  <img src="https://img.shields.io/badge/Systems%20Mindset-End%20to%20End-3498db?style=flat-square" />
 </p>
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 About Me — 2026 Edition
 
-> A builder from the old school — discipline, structure, craftsmanship —  
-> writing code for a future where **software thinks, reasons, and acts**.
+I’m an **AI Engineer & Systems Developer** working at the intersection of:
 
-I’m an **AI Engineer & ML Developer** focused on:
+- 🤖 **Agentic AI** — multi-step reasoning, planning, tool-use, autonomy  
+- 🧠 **LLM Systems Architecture** — memory, control flows, evals, alignment  
+- ⚙️ **Product-grade engineering** — reliability, observability, scale  
+- 🧩 **Human-AI collaboration tools** — augmentation over automation  
 
-- 🧩 **Agentic AI Systems** — planning, reasoning, tool-use, autonomy  
-- 🧠 **LLM Apps with memory, control, and reliability**
-- ⚙️ **End-to-end engineering** — backend → ML → UX
-- 🏗️ **Real products > toy demos** — shipped, tested, improved
-
-I question trends, respect fundamentals, and build like the craft matters.
+I don’t chase buzzwords — I build **software that thinks, adapts, and survives real-world constraints**.
 
 ---
 
-## 🔥 2026 Focus Areas
+## 🔭 Current Direction — Deep Engineering Focus
 
-- 🤖 AI Agents that collaborate, plan, and execute tasks
-- 🧠 Retrieval-Augmented & Memory-centric LLM systems
-- 🏭 Production-grade pipelines (observability, evals, safety)
-- 🌐 Human-in-loop automation tools
-- ⚡ Fast prototyping → robust engineering
+- 🧠 **Structured Reasoning Pipelines** (graphs, task planning, reflection loops)
+- 📚 **Retrieval + Long-term Memory Systems** (vector DBs, episodic/contextual memory)
+- 🏭 **LLM Ops & Evaluation Frameworks** (hallucination control, test harnesses)
+- 🤝 **Tool-use + Multi-Agent Coordination**
+- ⚡ **Prototype → Benchmark → Harden → Ship**
 
-> Not chasing hype. Building things that **survive reality**.
-
----
-
-## 🚀 Current Projects
-
-| Project | What it Does |
-|--------|--------------|
-| ⚖️ **AI Lawyer 2.0** | Reasoning-driven verdict generator w/ evidence-aware pipeline |
-| 🏡 **SmartHome Gemini** | Voice-first home control with contextual awareness |
-| 🔐 **Sentence Decryptor** | Transformer-powered pattern & cipher understanding |
-| 🎙️ **Speech-Translate** | Real-time multi-lingual speech intelligence |
-| 🌐 **Personal Developer Hub** | Portfolio + blog + engineering journal |
+> Vision: AI systems that aren’t just *smart* — they are **dependable**.
 
 ---
 
-## 🧩 Tech & Tools (Core Stack)
+## 🚀 Active Projects
+
+| Project | Stack | Description |
+|--------|------|-------------|
+| ⚖️ **AI Lawyer 2.0** | LLM + RAG + Reasoning Graphs | Evidence-aware legal reasoning engine w/ verdict synthesis |
+| 🏡 **SmartHome Gemini** | Voice + Context Agents | Context-persistent home automation with adaptive intent memory |
+| 🔐 **Sentence Decryptor** | Transformers + Pattern Analysis | Semantic + cipher inference for encrypted sequences |
+| 🎙️ **Speech-Translate RT** | Whisper + Streaming Pipelines | Real-time multilingual speech understanding |
+| 🌐 **Dev Knowledge Hub** | React + Node + Markdown Engine | Portfolio + personal research journal + engineering logs |
+
+---
+
+## 🧩 Core Stack & Capabilities
 
 **AI / ML**
-- Python • PyTorch • TensorFlow  
-- Transformers • RAG • Vector DBs • LLM Ops
+- PyTorch • TensorFlow • Transformers • LoRA / Fine-tuning  
+- RAG • Vector DBs • Embedding Systems • Prompt Graphs  
+- Model evals • Safety checks • Latency & cost optimization
 
-**Engineering**
-- Node.js • Express • MongoDB  
-- React • Streamlit • REST APIs • WebSockets
+**Backend / Systems**
+- Node.js • FastAPI • WebSockets • Micro-services  
+- MongoDB • SQL • Caching layers • Message queues
 
 **Infra / DevOps**
-- Docker • GitHub Actions • AWS • CI/CD
+- Docker • AWS • GitHub Actions • CI/CD  
+- Observability • Logging pipelines • Scalability patterns
 
-**Other**
-- SQL • Postman • Linux • Prompt Engineering
-
----
-
-## 🏹 Philosophy of Work
-
-> Think deeply.  
-> Build deliberately.  
-> Ship honestly.  
-> Improve relentlessly.
-
-AI isn’t magic — it’s engineering with curiosity, caution, and courage.
+**Product Layer**
+- React • Streamlit • UX for intelligent systems  
+- Rapid prototyping → production-grade upgrades
 
 ---
 
-## 📊 GitHub Stats
+## 🧭 Engineering Philosophy
+
+> Ship like an engineer.  
+> Think like an architect.  
+> Question like a skeptic.  
+> Improve like a craftsman.
+
+Good systems aren’t flashy —  
+they’re **predictable, explainable, maintainable, and timeless**.
+
+---
+
+## 📊 Engineering Footprint
 
 <div align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=SP4567&show_icons=true&theme=radical&count_private=true" />
@@ -88,7 +89,7 @@ AI isn’t magic — it’s engineering with curiosity, caution, and courage.
 
 ---
 
-## 🌍 Top Languages
+## 🌍 Language Distribution
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SP4567&layout=compact&theme=tokyonight" />
@@ -96,26 +97,26 @@ AI isn’t magic — it’s engineering with curiosity, caution, and courage.
 
 ---
 
-## 📫 Connect
+## 📫 Connect & Collaborate
 
 - 📧 suyashpandey9611@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/suyash-pandey  
-- 💻 GitHub: https://github.com/SP4567  
-- 🌐 Portfolio: Coming soon — but built by hand, not hype.
+- 💼 LinkedIn — https://www.linkedin.com/in/suyash-pandey  
+- 💻 GitHub — https://github.com/SP4567  
+- 📝 Research & Build Logs — coming soon
 
 ---
 
-## 🧘‍♂️ Quote I Build By
+## 🧘‍♂️ Principle I Work By
 
-> “Good engineers automate.  
-> Great engineers **understand before they automate**.”
+> *AI that thinks is impressive.*  
+> **AI that you can trust is valuable.**
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Fun Note
 
-I don’t just build AI that answers —  
-I build AI that **reasons, reflects, and respects the craft**.
+Building systems that don’t just **respond** —  
+they **reason, adapt, and respect real-world constraints**.
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
