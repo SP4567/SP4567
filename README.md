@@ -62,7 +62,7 @@ I question trends, respect fundamentals, and build like the craft matters.
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SP4567&theme=algolia&no-frame=true&title=Followers,Stars,Commit,Repositories,PullRequest" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SP4567&theme=algolia&no-frame=true&title=Followers,Stars,Commit,Repositories,PullRequest,Issues,Contributions,MultipleLang" />
 </p>
 
 ---
@@ -89,7 +89,7 @@ I question trends, respect fundamentals, and build like the craft matters.
 - 📧 Email: suyashpandey9611@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/suyash-pandey)  
 - 💻 [GitHub](https://github.com/SP4567)
-- 💼 [Portfolio](https://geraltsportfolio.netlify.app/)
+- 💼 [Portfolio](https://suyashpandey.vercel.app/)
 - ✍️ Blogs: Coming soon on personal site 🚧  
 - 🧠 Projects, thoughts & madness — all in one place soon
 
